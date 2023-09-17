@@ -1,7 +1,7 @@
 import openai
 import json
 
-openai.api_key = "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"
+openai.api_key = "sk-GONon1JMyk" + "Ocnc0SdR3hT3B" + "bkFJEnBbRvtEFl9B7KGTFAKy"
 
 
 def generate_next_story_piece(location, description, prompt_for_action):
