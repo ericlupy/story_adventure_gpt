@@ -1,2 +1,1 @@
-openai>=0.28.0
-typing-extensions>=3.10.0.0
+replicate
